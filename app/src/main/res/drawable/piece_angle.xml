@@ -6,7 +6,7 @@ android:viewportHeight="92"
 android:viewportWidth="92">
 <path
   android:fillColor="#7f5500"
-  android:pathData="M 0 0, h 92, v 92, h -92z"/>
+  android:pathData="M 0 0, h 92, v 92, h -92, z"/>
 <path
   android:strokeColor="#555555"
   android:fillColor="#999999"
