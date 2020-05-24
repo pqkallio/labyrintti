@@ -5,5 +5,13 @@
 
   <fragment
     android:id="@+id/titleFragment"
-    android:name="fi.petrikallio.labyrintti.TitleFragment" />
+    android:name="fi.petrikallio.labyrintti.TitleFragment" >
+    <action
+      android:id="@+id/action_titleFragment_to_mainMenuFragment"
+      app:destination="@id/mainMenuFragment" />
+  </fragment>
+  <fragment
+    android:id="@+id/mainMenuFragment"
+    android:name="fi.petrikallio.labyrintti.MainMenuFragment"
+    android:label="MainMenuFragment" />
 </navigation>

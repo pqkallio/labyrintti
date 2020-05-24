@@ -2,4 +2,5 @@
   <string name="app_name">Labyrintti</string>
   <string name="game_title">Labyrintti</string>
   <string name="game_start">Aloita</string>
+  <string name="mainMenuTitleStr">Tervetuloa pelaamaan!</string>
 </resources>
